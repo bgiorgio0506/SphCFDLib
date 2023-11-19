@@ -1,6 +1,6 @@
 # Computed Fluid Dynamic Rust Wasm lib
 
-##Description
+## Description
 This is a rust CFD lib created with the intent to be used in a web enviroment. This Computed Fluid Dynamic simulation uses Euler based fluid method. 
 The model makes the following assumptions: 
 1. Incompressible flow
